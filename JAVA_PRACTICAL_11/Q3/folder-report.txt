@@ -1,0 +1,7 @@
+FOLDER TREE REPORT
+Root: C:\Users\Diya Parmar\Downloads\clg_program\JAVA_PRACTICAL\JAVA_PRACTICAL_11\Q3\myfolder
+----------------------------------------
+letter.txt | Size: 2134 bytes | Modified: 2026-10-28T17:07:30.275910200Z
+----------------------------------------
+Total files: 1
+Total size: 2134 bytes
